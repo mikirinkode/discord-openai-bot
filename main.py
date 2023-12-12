@@ -24,7 +24,7 @@ class MyClient(discord.Client):
             else:
                 thread = message.channel
             # add is typing effect
-            await thread.typing():
+            await thread.typing()
             await thread.send('pong')
 
 
