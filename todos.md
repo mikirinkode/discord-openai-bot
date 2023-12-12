@@ -1,0 +1,13 @@
+- [x] Copilot Intro
+- [x] Register Bot & Get Token
+- [x] Reply Message
+- [x] Create Thread
+- [x] Reply in thread
+- [] Typing effect
+- [] REA website
+- [] Build entity
+- [] create add_chat
+- [] create add_thread
+- [] connect to openAI
+- [] implement thread **str**
+- [] Build system message
