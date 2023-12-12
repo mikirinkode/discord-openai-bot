@@ -3,11 +3,10 @@
 - [x] Reply Message
 - [x] Create Thread
 - [x] Reply in thread
-- [] Typing effect
-- [] REA website
-- [] Build entity
+- [X] Typing effect
+- [X] Build entity
 - [] create add_chat
 - [] create add_thread
-- [] connect to openAI
+- [X] connect to openAI
 - [] implement thread **str**
-- [] Build system message
+- [X] Build system message
